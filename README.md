@@ -1,4 +1,4 @@
-# Gifty
+# Giffty
 
 ## Requisitos
 
